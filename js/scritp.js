@@ -9,7 +9,7 @@ const root = new Vue(
     {
         el: "#root",
         data: {
-            message: "Inserisci il link di un immagine",
+            message: "Inserisci il link di un immagine presa dal Web",
             img: "",
         },
 
