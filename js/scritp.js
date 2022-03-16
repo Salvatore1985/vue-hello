@@ -9,7 +9,9 @@ const root = new Vue(
     {
         el: "#root",
         data: {
-            message: "Hello Word",
+            message: "Inserisci il link di un immagine",
+            img: "",
         },
+
     }
 );
